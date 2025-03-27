@@ -1,0 +1,8 @@
+CREATE DATABASE (yourdatabasename)
+ON (FILENAME = 'your mdf file path you want to attach')
+FOR ATTACH;
+
+
+for more clarification
+Watch my youtube video
+https://youtu.be/WFQWzu2AqoA
